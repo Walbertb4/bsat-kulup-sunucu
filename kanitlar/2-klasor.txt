@@ -1,0 +1,2 @@
+drwxrwxr-x 2 batue kulup 4096 Nov 26 17:23 /srv/kulup
+kulup:x:1001:batue
