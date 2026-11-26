@@ -1,0 +1,8 @@
+               total        used        free      shared  buff/cache   available
+Mem:            15Gi       753Mi        14Gi       3.5Mi       789Mi        14Gi
+Swap:          4.0Gi          0B       4.0Gi
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sdd       1007G  1.9G  954G   1% /
+12
+lo               UNKNOWN        127.0.0.1/8 10.255.255.254/32 ::1/128 
+eth0             UP             172.28.106.75/20 fe80::215:5dff:fe26:5b0a/64 
