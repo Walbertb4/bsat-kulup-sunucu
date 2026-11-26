@@ -1,0 +1,8 @@
+Nov 26 17:26:38 batu-laptop systemd[1]: Stopping nginx.service - A high performance web server and a reverse proxy server...
+Nov 26 17:26:38 batu-laptop systemd[1]: nginx.service: Deactivated successfully.
+Nov 26 17:26:38 batu-laptop systemd[1]: Stopped nginx.service - A high performance web server and a reverse proxy server.
+Nov 26 17:26:38 batu-laptop systemd[1]: Starting nginx.service - A high performance web server and a reverse proxy server...
+Nov 26 17:26:38 batu-laptop systemd[1]: Started nginx.service - A high performance web server and a reverse proxy server.
+::1 - - [26/Nov/2026:17:32:36 +0300] "HEAD / HTTP/1.1" 200 0 "-" "curl/8.18.0"
+::1 - - [26/Nov/2026:17:34:46 +0300] "GET / HTTP/1.1" 200 330 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.167 Safari/537.36 Antigravity/2.35.2"
+::1 - - [26/Nov/2026:17:34:46 +0300] "GET /favicon.ico HTTP/1.1" 404 197 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.7977.167 Safari/537.36 Antigravity/2.35.2"
