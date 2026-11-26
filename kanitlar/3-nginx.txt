@@ -1,0 +1,6 @@
+● nginx.service - A high performance web server and a reverse proxy server
+     Loaded: loaded (/usr/lib/systemd/system/nginx.service; enabled; preset: enabled)
+     Active: active (running) since Thu 2026-11-26 17:26:38 +03; 1min 3s ago
+ Invocation: cbb37c98ca3b421092e3109e250094eb
+       Docs: man:nginx(8)
+enabled
