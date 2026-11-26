@@ -1,0 +1,4 @@
+4 Aralık: Python ve Veri Analizi Atölyesi, B Blok Lab 2
+11 Aralık: Siber Güvenlik ve CTF Tanıtım Semineri, Konferans Salonu
+18 Aralık: Açık Kaynak Katkı Günü ve Git Uygulaması
+25 Aralık: Linux Sunucu Yönetimi Soru-Cevap Oturumu

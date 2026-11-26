@@ -1,0 +1,2 @@
+*/5 * * * * /home/batue/kulup-sunucu/duyuru.sh
+-rwxr-xr-x 1 batue batue 558 Nov 26 17:29 duyuru.sh
