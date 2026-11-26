@@ -16,4 +16,4 @@
 
 ## Yapay Zekâ Kullanımı
 
-Ödev adımlarını kendim takip edip uygularken, özellikle yeni gördüğümüz Nginx ayarları, `duyuru.sh` betiğindeki sözdizimi ve komut seçeneklerinin doğrulanması ile terminal çıktılarının yorumlanmasında Gemini Neon modelinden faydalandım. Her adımı ve kanıt dosyalarını tek tek kontrol ederek ayrı kayıtlar (commit) hâlinde GitHub'a gönderdim.
+Ödev adımlarını kendim takip edip uygularken, özellikle `duyuru.sh` betiğindeki sözdizimi ve komut seçeneklerinin doğrulanması ile terminal çıktılarının yorumlanmasında Gemini Neon modelinden faydalandım. Her adımı ve kanıt dosyalarını tek tek kontrol ederek ayrı kayıtlar (commit) hâlinde GitHub'a gönderdim.
